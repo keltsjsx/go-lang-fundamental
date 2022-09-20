@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	// Testing
 	// var conferenceName string = "Go Conference"
 	conferenceName := "Go Reference"
 	const conferenceTickets int = 50
